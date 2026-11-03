@@ -2,7 +2,7 @@
 
   <!-- 动态打字效果 -->
   <h1>Hi 👋, I'm ZHANG CONG</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Continuous+learning+%26+building...;Nice+to+meet+you!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Python+%26+R+Language+Practitioner;Continuous+learning+%26+building...;Nice+to+meet+you!+🚀" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://github.com/1254084397">
@@ -17,7 +17,7 @@
 ### 🛠 技能与常用工具 (Tech Stack)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,linux,git,docker,vscode,markdown" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=py,r,vscode,git,github,markdown" alt="My Skills" />
 </p>
 
 ---
@@ -36,5 +36,5 @@
 ---
 
 <p align="center">
-  <i>⭐ 欢迎 Star 和交流！</i>
+  <i>⭐ Welcome to my GitHub!</i>
 </p>
