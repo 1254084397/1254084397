@@ -1,8 +1,10 @@
 <div align="center">
 
-  <!-- 动态打字效果 -->
-  <h1>Hi 👋, I'm ZHANG CONG</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Python+%26+R+Language+Practitioner;Continuous+learning+%26+building...;Nice+to+meet+you!+🚀" alt="Typing SVG" />
+  <!-- 科技感波浪标题 Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,15&height=220&section=header&text=ZHANG%20CONG&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20R%20%7C%20Data%20Analysis&descAlignY=58&descAlign=50" width="100%"/>
+
+  <!-- 纯净打字效果 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Focusing+on+Python+and+R;Continuous+learning+and+building!" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://github.com/1254084397">
